@@ -19,7 +19,8 @@ DDoS Detection
 ---
 
 ### Next Steps
-
+```
 [section authoring]: TBD
 [Request For Comments]: internal
 [Request For Comments]: external
+```
